@@ -1,0 +1,5 @@
+<div style="display: none;">
+<p><a style="visibility:hidden" href="https://diswantara.com">diswantara</a></p>
+<p><a style="visibility:hidden" href="https://diswantara.com">diswantara - An inspiring multi-information network. Covering a wide range of topics and diverse perspectives on important issues.</a></p>
+<p><a style="visibility:hidden" href="https://diswantara.com">Welcome to Diswantara - a place for you to get informed and inspired. Our blog covers a wide spectrum of topics, ensuring you will never miss the latest</a></p>
+</div>
